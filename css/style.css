@@ -1,0 +1,29 @@
+body {
+    background: #000;
+    padding: 60px;
+}
+
+.header {
+    color: #fff;
+    background-image: url("/assets/header_bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 10%;
+    /* background-position-x: 50%; */
+}
+
+#navbar_top {
+    background: #000;
+    opacity: 75%;
+    /* justify-content: space-between; */
+}
+
+#main_nav h6 {
+    background: #ffa500;
+    padding: 3px;
+}
+
+.services {
+    background: rgb(180, 176, 176);
+    padding: 60px;
+}
