@@ -27,3 +27,19 @@ body {
     background: rgb(180, 176, 176);
     padding: 60px;
 }
+
+#intro {
+    background-image: url("/assets/table_bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(2, 2, 2);
+    color: white;
+    text-align: center;
+}
