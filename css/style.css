@@ -5,7 +5,7 @@ body {
 
 .header {
     color: #fff;
-    background-image: url("/assets/header_bg.png");
+    background-image: url("../assets/header_bg.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position-y: 10%;
@@ -29,7 +29,7 @@ body {
 }
 
 #intro {
-    background-image: url("/assets/table_bg.png");
+    background-image: url("../assets/table_bg.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
