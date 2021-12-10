@@ -58,10 +58,15 @@ body {
 
 .col2 {
     width: 50%;
-    /* align-content: center; */
-    align-items: center;
+    /* align-content: center;
+    align-items: center; */
+    position: relative;
 }
 
 img {
     width: 100%
+}
+
+#menu {
+    background-color: #808080;
 }
