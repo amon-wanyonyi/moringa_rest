@@ -70,3 +70,7 @@ img {
 #menu {
     background-color: #808080;
 }
+
+.product-info {
+    float: right;
+}
